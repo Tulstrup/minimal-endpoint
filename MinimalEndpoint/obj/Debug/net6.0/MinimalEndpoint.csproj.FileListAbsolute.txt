@@ -1,0 +1,12 @@
+/Users/bc8732/repos/minimal-endpoint/MinimalEndpoint/bin/Debug/net6.0/MinimalEndpoint.deps.json
+/Users/bc8732/repos/minimal-endpoint/MinimalEndpoint/bin/Debug/net6.0/MinimalEndpoint.dll
+/Users/bc8732/repos/minimal-endpoint/MinimalEndpoint/bin/Debug/net6.0/MinimalEndpoint.pdb
+/Users/bc8732/repos/minimal-endpoint/MinimalEndpoint/obj/Debug/net6.0/MinimalEndpoint.csproj.AssemblyReference.cache
+/Users/bc8732/repos/minimal-endpoint/MinimalEndpoint/obj/Debug/net6.0/MinimalEndpoint.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bc8732/repos/minimal-endpoint/MinimalEndpoint/obj/Debug/net6.0/MinimalEndpoint.AssemblyInfoInputs.cache
+/Users/bc8732/repos/minimal-endpoint/MinimalEndpoint/obj/Debug/net6.0/MinimalEndpoint.AssemblyInfo.cs
+/Users/bc8732/repos/minimal-endpoint/MinimalEndpoint/obj/Debug/net6.0/MinimalEndpoint.csproj.CoreCompileInputs.cache
+/Users/bc8732/repos/minimal-endpoint/MinimalEndpoint/obj/Debug/net6.0/MinimalEndpoint.dll
+/Users/bc8732/repos/minimal-endpoint/MinimalEndpoint/obj/Debug/net6.0/refint/MinimalEndpoint.dll
+/Users/bc8732/repos/minimal-endpoint/MinimalEndpoint/obj/Debug/net6.0/MinimalEndpoint.pdb
+/Users/bc8732/repos/minimal-endpoint/MinimalEndpoint/obj/Debug/net6.0/ref/MinimalEndpoint.dll
