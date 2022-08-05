@@ -6,17 +6,18 @@
         <Nullable>enable</Nullable>
         <LangVersion>10</LangVersion>
         <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-        <Title>MinimalEndpoint</Title>
+        <Title>Tulstrup.MinimalEndpoint</Title>
         <Authors>Jonas Tulstrup</Authors>
         <Description>Register ASP.NET Core endpoints in a minimal fashion</Description>
         <Copyright>Copyright Jonas Tulstrup</Copyright>
         <SignAssembly>true</SignAssembly>
         <AssemblyOriginatorKeyFile>MinimalEndpoint.snk</AssemblyOriginatorKeyFile>
-        <PackageId>MinimalEndpoint</PackageId>
+        <PackageId>Tulstrup.MinimalEndpoint</PackageId>
         <Version>1.0.0</Version>
+        <PackageLicenseExpression>MIT</PackageLicenseExpression>
         <PackageProjectUrl>https://github.com/Tulstrup/minimal-endpoint</PackageProjectUrl>
-        <PackageLicenseUrl>https://github.com/Tulstrup/minimal-endpoint/blob/main/LICENSE</PackageLicenseUrl>
         <RepositoryUrl>https://github.com/Tulstrup/minimal-endpoint</RepositoryUrl>
+        <Product>Tulstrup.MinimalEndpoint</Product>
     </PropertyGroup>
 
     <ItemGroup>
