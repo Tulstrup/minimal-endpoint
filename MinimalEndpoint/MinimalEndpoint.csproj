@@ -12,7 +12,11 @@
         <Copyright>Copyright Jonas Tulstrup</Copyright>
         <SignAssembly>true</SignAssembly>
         <AssemblyOriginatorKeyFile>MinimalEndpoint.snk</AssemblyOriginatorKeyFile>
+        <PackageId>MinimalEndpoint</PackageId>
         <PackageVersion>1.0.0</PackageVersion>
+        <PackageProjectUrl>https://github.com/Tulstrup/minimal-endpoint</PackageProjectUrl>
+        <PackageLicenseUrl>https://github.com/Tulstrup/minimal-endpoint/blob/main/LICENSE</PackageLicenseUrl>
+        <RepositoryUrl>https://github.com/Tulstrup/minimal-endpoint</RepositoryUrl>
     </PropertyGroup>
 
     <ItemGroup>
