@@ -9,7 +9,10 @@
         <Title>MinimalEndpoint</Title>
         <Authors>Jonas Tulstrup</Authors>
         <Description>Register ASP.NET Core endpoints in a minimal fashion</Description>
-        <Copyright>Jonas Tulstrup</Copyright>
+        <Copyright>Copyright Jonas Tulstrup</Copyright>
+        <SignAssembly>true</SignAssembly>
+        <AssemblyOriginatorKeyFile>MinimalEndpoint.snk</AssemblyOriginatorKeyFile>
+        <PackageVersion>1.0.0</PackageVersion>
     </PropertyGroup>
 
     <ItemGroup>
